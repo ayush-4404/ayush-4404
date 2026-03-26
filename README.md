@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Ayush Raj  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Backend+Enthusiast;Building+Scalable+Systems;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Backend+Enthusiast;Building+Scalable+Systems;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
 ---
@@ -16,43 +20,59 @@
 
 ---
 
+## 🚀 Featured Project  
+
+### 🏏 TossUp  
+> A prediction-based sports platform inspired by IPL engagement  
+
+- ⚡ Real-time prediction & interaction system  
+- 🌐 Full-stack architecture (React + Node.js + MongoDB)  
+- ☁️ Deployed with modern cloud practices  
+- 🎯 Focused on scalability and user engagement  
+
+---
+
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nodejs,express,mongodb,aws,nginx,git,github,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-4404&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ayush-4404&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-4404&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+## 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayush-4404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 🎮 Contribution Graph  
+<p align="center">
+  <img src="https://github.com/ayush-4404/ayush-4404/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌐 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/ayush-raj-bt219">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:AYUSHMISHRA7484@GMAIL.COM">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 💻 Tech Stack  
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nodejs,express,mongodb,aws,nginx,git,github,postman" />
-
-</p>
-
----
-
-## 🚀 What I Work On  
-- 🤖 AI-powered applications  
-- ⚡ Real-time analytics systems  
-- 🌐 Full-stack scalable web apps  
-- ☁️ Cloud deployment & backend architecture  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-4404&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ayush-4404&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-4404&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="50%" />
 </p>
 
 ---
@@ -67,6 +87,12 @@
 ## 👀 Profile Views  
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ayush-4404&icon=5&color=6" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 ---
