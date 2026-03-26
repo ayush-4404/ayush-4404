@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Ayush Raj  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Backend+Enthusiast;Building+Scalable+Systems;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF7A18&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Backend+Enthusiast;Building+Scalable+Systems;Always+Learning+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A18,100:FFB347&height=120&section=header"/>
 </p>
-
----
 
 ## 🌟 About Me  
 - 🎓 Computer Science undergraduate focused on **scalable software engineering**  
