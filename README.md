@@ -41,26 +41,26 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-4404&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-4404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
   <img src="https://streak-stats.demolab.com?user=ayush-4404&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-4404&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-4404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
 </p>
 
 ---
 
 ## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-4404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+- 🚀 Built full-stack applications with cloud deployment  
+- 🤖 Developed AI-based systems for real-world problems  
+- ⚡ Experience with scalable backend systems  
 
 ---
 
 ## 🎮 Contribution Graph  
 <p align="center">
-  <img src="https://github.com/ayush-4404/ayush-4404/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ayush-4404/ayush-4404/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -80,13 +80,6 @@
 ## ✨ Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ayush-4404&icon=5&color=6" />
 </p>
 
 ---
