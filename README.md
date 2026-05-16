@@ -11,20 +11,23 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" title="cricket bat swing"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="120" title="cricket ball"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" title="cricket bat swing"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" title="coding cat"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" title="coding"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" title="coding cat"/>
 </div>
 
 ---
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║              🏟  AYUSH-4404 CRICKET CLUB  🏟                ║
-║                   OFFICIAL PLAYER CARD                       ║
-╚══════════════════════════════════════════════════════════════╝
+ ██████╗ ██████╗ ██╗ ██████╗██╗  ██╗███████╗████████╗
+██╔════╝██╔══██╗██║██╔════╝██║ ██╔╝██╔════╝╚══██╔══╝
+██║     ██████╔╝██║██║     █████╔╝ █████╗     ██║
+██║     ██╔══██╗██║██║     ██╔═██╗ ██╔══╝     ██║
+╚██████╗██║  ██║██║╚██████╗██║  ██╗███████╗   ██║
+ ╚═════╝╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝
+         🏟️  AYUSH-4404  ·  ALL-ROUNDER  ·  #4404
 ```
 
 ```yaml
@@ -44,24 +47,37 @@
 ---
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  📋  BATTING LINEUP  —  TECH STACK XI                       │
-├──────┬───────────────────────┬──────────────┬───────────────┤
-│  No. │  Player (Tech)        │  Role        │  Form         │
-├──────┼───────────────────────┼──────────────┼───────────────┤
-│  1   │  JavaScript        🏏 │  Opener      │  ████████████ │
-│  2   │  TypeScript        🏏 │  Opener      │  ██████████░░ │
-│  3   │  React             🌟 │  #3 Anchor   │  ████████████ │
-│  4   │  Next.js           ⚡ │  Middle Order│  ██████████░░ │
-│  5   │  Node.js           🔧 │  All-Rounder │  ██████████░░ │
-│  6   │  Python            🐍 │  All-Rounder │  ████████░░░░ │
-│  7   │  Java              ☕ │  Lower Order │  ███████░░░░░ │
-│  8   │  Tailwind CSS      🎨 │  Finisher    │  ████████████ │
-│  9   │  MySQL             🗄️ │  Keeper      │  ████████░░░░ │
-│  10  │  MongoDB           🍃 │  Tail        │  ████████░░░░ │
-│  11  │  AI / LLM          🤖 │  Impact Sub  │  ██████████░░ │
-│  12  │  REST APIs         🔗 │  12th Man    │  ████████████ │
-└──────┴───────────────────────┴──────────────┴───────────────┘
+  ╭──────────────────────────────────────────────────────────╮
+  │  ▀█████████▄     ▄████████     ███         ███          │
+  │    ███    ███   ███    ███ ▀█████████▄ ▀█████████▄      │
+  │    ███    ███   ███    ███    ▀███▀▀██    ▀███▀▀██       │
+  │   ▄███▄▄▄██▀    ███    ███     ███   ▀     ███   ▀       │
+  │  ▀▀███▀▀▀██▄  ▀███████████     ███         ███           │
+  │    ███    ██▄   ███    ███     ███         ███            │
+  │    ███    ███   ███    ███     ███         ███            │
+  │  ▄█████████▀    ███    █▀     ▄████▀      ▄████▀         │
+  │                                                          │
+  │         📋  TECH STACK XI  —  BATTING LINEUP            │
+  ╰──────────────────────────────────────────────────────────╯
+```
+
+```
+  ┌──────┬────────────────────────┬──────────────┬───────────────┐
+  │  No. │  Player (Tech)         │  Role        │  Form         │
+  ├──────┼────────────────────────┼──────────────┼───────────────┤
+  │  1   │  JavaScript       💻  │  Opener      │  ████████████ │
+  │  2   │  TypeScript       🔷  │  Opener      │  ██████████░░ │
+  │  3   │  React            ⚛️  │  #3 Anchor   │  ████████████ │
+  │  4   │  Next.js          🔼  │  Middle Order│  ██████████░░ │
+  │  5   │  Node.js          🟩  │  All-Rounder │  ██████████░░ │
+  │  6   │  Python           🐍  │  All-Rounder │  ████████░░░░ │
+  │  7   │  Java             ☕  │  Lower Order │  ███████░░░░░ │
+  │  8   │  Tailwind CSS     🎨  │  Finisher    │  ████████████ │
+  │  9   │  MySQL            🗄️  │  Keeper      │  ████████░░░░ │
+  │  10  │  MongoDB          🍃  │  Tail        │  ████████░░░░ │
+  │  11  │  AI / LLM         🤖  │  Impact Sub  │  ██████████░░ │
+  │  12  │  REST APIs        🔗  │  12th Man    │  ████████████ │
+  └──────┴────────────────────────┴──────────────┴───────────────┘
 ```
 
 > 🏏 **SHOT OF THE DAY** — `JavaScript` drives one through the covers for FOUR!
@@ -69,7 +85,15 @@
 ---
 
 ```
-╔══════════════════ 📊  CAREER SCORECARD ══════════════════════╗
+  ╔═══════════════════════════════════════════════════════════╗
+  ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+  ║  ░░                                                   ░░  ║
+  ║  ░░   📊   C A R E E R   S C O R E C A R D   📊     ░░  ║
+  ║  ░░                                                   ░░  ║
+  ║  ░░   Matches · Runs · Strike Rate · Avg · Economy   ░░  ║
+  ║  ░░                                                   ░░  ║
+  ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+  ╚═══════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -85,16 +109,15 @@
 
 </div>
 
-```
-╚══════════════════════════════════════════════════════════════╝
-```
-
 ---
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  📺  HAWK-EYE  —  CONTRIBUTION TRAJECTORY                   │
-└─────────────────────────────────────────────────────────────┘
+  ╭─────────────────────────────────────────────────────────╮
+  │                                                         │
+  │   📺  H A W K - E Y E   ·   CONTRIBUTION RADAR  📺    │
+  │       [ Ball tracking your commit trajectory ]          │
+  │                                                         │
+  ╰─────────────────────────────────────────────────────────╯
 ```
 
 <div align="center">
@@ -106,9 +129,10 @@
 ---
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🏆  TROPHY CABINET                                         │
-└─────────────────────────────────────────────────────────────┘
+  ╔═══════════════════════════════════════════════════════════╗
+  ║   🏆  ──────────  T R O P H Y   C A B I N E T  ──────  🏆║
+  ║        World Cup · IPL · Test · ODI · T20 Honours         ║
+  ╚═══════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -120,30 +144,43 @@
 ---
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  📡  LIVE MATCH CENTRE  —  ACTIVE INNINGS                   │
-├────────┬────────────────────────────────────┬───────────────┤
-│  Over  │  Delivery (Project)                │  Result       │
-├────────┼────────────────────────────────────┼───────────────┤
-│  1.1   │  next.js + ai-integration-app   🚀 │  SIX    🟢   │
-│  1.2   │  llm-agents-research            🤖 │  FOUR   🟢   │
-│  1.3   │  scalable-backend-arch          🔧 │  DOT    🟡   │
-│  1.4   │  open-source-contributions      🌍 │  RUN    🟢   │
-│  1.5   │  learning-system-design         📚 │  WD     🔵   │
-└────────┴────────────────────────────────────┴───────────────┘
+  ╭─────────────────────────────────────────────────────────╮
+  │  📡  L I V E  ·  M A T C H  ·  C E N T R E  📡        │
+  │  ════════════════════════════════════════════════════   │
+  │  🔴  LIVE  |  AYUSH-4404  vs  PROD BUGS  |  Day 1      │
+  ╰─────────────────────────────────────────────────────────╯
+```
+
+```
+  ┌────────┬──────────────────────────────────────┬──────────────┐
+  │  Over  │  Delivery (Project)                  │  Result      │
+  ├────────┼──────────────────────────────────────┼──────────────┤
+  │  1.1   │  next.js + ai-integration-app  🚀    │  SIX  🟢    │
+  │  1.2   │  llm-agents-research           🤖    │  FOUR 🟢    │
+  │  1.3   │  scalable-backend-arch         💾    │  DOT  🟡    │
+  │  1.4   │  open-source-contributions     💻    │  RUN  🟢    │
+  │  1.5   │  learning-system-design        📐    │  WD   🔵    │
+  └────────┴──────────────────────────────────────┴──────────────┘
 ```
 
 <div align="center">
 
 > 🎙️ *"Ayush is batting on 97\*... eyes on the century, one commit at a time!"*
 
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" title="crowd cheering"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" title="github contribution"/>
 
 </div>
 
 ---
 
-### 🏅 BATTING MILESTONES
+```
+  ╔═══════════════════════════════════════════════════════════╗
+  ║                                                           ║
+  ║   🏅   B A T T I N G   M I L E S T O N E S   🏅         ║
+  ║        Personal bests · Records · Achievements           ║
+  ║                                                           ║
+  ╚═══════════════════════════════════════════════════════════╝
+```
 
 | 🏏 Milestone | 🎯 Target | 📊 Status |
 |---|---|---|
@@ -156,9 +193,12 @@
 ---
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🎙  POST-MATCH PRESS CONFERENCE  —  REACH ME AT            │
-└─────────────────────────────────────────────────────────────┘
+  ╭─────────────────────────────────────────────────────────╮
+  │                                                         │
+  │  🎙️  P O S T - M A T C H   P R E S S E R  🎙️         │
+  │       Drop a message  ·  Open for collabs               │
+  │                                                         │
+  ╰─────────────────────────────────────────────────────────╯
 ```
 
 <div align="center">
@@ -173,7 +213,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" title="coding at night"/>
 
 ```
 🏏  "It's not about how hard you hit, it's about how clean you ship."
