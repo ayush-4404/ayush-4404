@@ -10,6 +10,14 @@
 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" title="cricket bat swing"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="120" title="cricket ball"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" title="cricket bat swing"/>
+</div>
+
 ---
 
 ```
@@ -41,20 +49,22 @@
 ├──────┬───────────────────────┬──────────────┬───────────────┤
 │  No. │  Player (Tech)        │  Role        │  Form         │
 ├──────┼───────────────────────┼──────────────┼───────────────┤
-│  1   │  JavaScript           │  Opener      │  ████████████ │
-│  2   │  TypeScript           │  Opener      │  ██████████░░ │
-│  3   │  React                │  #3 Anchor   │  ████████████ │
-│  4   │  Next.js              │  Middle Order│  ██████████░░ │
-│  5   │  Node.js              │  All-Rounder │  ██████████░░ │
-│  6   │  Python               │  All-Rounder │  ████████░░░░ │
-│  7   │  Java                 │  Lower Order │  ███████░░░░░ │
-│  8   │  Tailwind CSS         │  Finisher    │  ████████████ │
-│  9   │  MySQL                │  Keeper      │  ████████░░░░ │
-│  10  │  MongoDB              │  Tail        │  ████████░░░░ │
-│  11  │  AI / LLM Integration │  Impact Sub  │  ██████████░░ │
-│  12  │  REST APIs            │  12th Man    │  ████████████ │
+│  1   │  JavaScript        🏏 │  Opener      │  ████████████ │
+│  2   │  TypeScript        🏏 │  Opener      │  ██████████░░ │
+│  3   │  React             🌟 │  #3 Anchor   │  ████████████ │
+│  4   │  Next.js           ⚡ │  Middle Order│  ██████████░░ │
+│  5   │  Node.js           🔧 │  All-Rounder │  ██████████░░ │
+│  6   │  Python            🐍 │  All-Rounder │  ████████░░░░ │
+│  7   │  Java              ☕ │  Lower Order │  ███████░░░░░ │
+│  8   │  Tailwind CSS      🎨 │  Finisher    │  ████████████ │
+│  9   │  MySQL             🗄️ │  Keeper      │  ████████░░░░ │
+│  10  │  MongoDB           🍃 │  Tail        │  ████████░░░░ │
+│  11  │  AI / LLM          🤖 │  Impact Sub  │  ██████████░░ │
+│  12  │  REST APIs         🔗 │  12th Man    │  ████████████ │
 └──────┴───────────────────────┴──────────────┴───────────────┘
 ```
+
+> 🏏 **SHOT OF THE DAY** — `JavaScript` drives one through the covers for FOUR!
 
 ---
 
@@ -115,14 +125,33 @@
 ├────────┬────────────────────────────────────┬───────────────┤
 │  Over  │  Delivery (Project)                │  Result       │
 ├────────┼────────────────────────────────────┼───────────────┤
-│  1.1   │  next.js + ai-integration-app      │  FOUR  ▶  🟢  │
-│  1.2   │  llm-agents-research               │  SIX   ▶  🟢  │
-│  1.3   │  scalable-backend-architecture     │  DOT   ▶  🟡  │
-│  1.4   │  open-source-contributions         │  RUN   ▶  🟢  │
-│  1.5   │  learning-system-design            │  WD    ▶  🔵  │
+│  1.1   │  next.js + ai-integration-app   🚀 │  SIX    🟢   │
+│  1.2   │  llm-agents-research            🤖 │  FOUR   🟢   │
+│  1.3   │  scalable-backend-arch          🔧 │  DOT    🟡   │
+│  1.4   │  open-source-contributions      🌍 │  RUN    🟢   │
+│  1.5   │  learning-system-design         📚 │  WD     🔵   │
 └────────┴────────────────────────────────────┴───────────────┘
-  🎙  COMMENTARY: "Ayush is batting on 97*... looking for the century!"
 ```
+
+<div align="center">
+
+> 🎙️ *"Ayush is batting on 97\*... eyes on the century, one commit at a time!"*
+
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" title="crowd cheering"/>
+
+</div>
+
+---
+
+### 🏅 BATTING MILESTONES
+
+| 🏏 Milestone | 🎯 Target | 📊 Status |
+|---|---|---|
+| First commit century | 100 commits | 🟡 In progress |
+| All-rounder badge | 5 languages used | ✅ Achieved |
+| Clean bowled bugs | 50 PRs merged | 🟡 In progress |
+| Hat-trick repos | 3 starred projects | 🟡 Building... |
+| World Cup ready | Open source contrib | 🔵 Coming soon |
 
 ---
 
@@ -143,6 +172,8 @@
 ---
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="80"/>
 
 ```
 🏏  "It's not about how hard you hit, it's about how clean you ship."
