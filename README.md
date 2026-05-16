@@ -1,141 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b14,50:2d1b69,100:4c1d95&height=180&section=header&text=%24%20whoami%20ayush&fontSize=42&fontColor=e9d5ff&fontAlignY=40&desc=Code.%20Create.%20Scale.&descSize=18&descAlignY=62&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d2137&height=200&section=header&text=🏏%20Ayush%20%7C%20All-Rounder&fontSize=40&fontColor=f0c040&fontAlignY=38&desc=Code.%20Create.%20Scale.&descSize=20&descAlignY=60&descColor=e2c97e&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=a78bfa&center=true&vCenter=true&width=650&lines=%24+initializing+ayush-4404...;%5B+OK+%5D+Full-Stack+Developer+loaded;%5B+OK+%5D+AI+%2F+LLM+Integration+module+active;%5B+OK+%5D+Ready+to+build+%26+scale+%F0%9F%9A%80;%24+_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=F0C040&center=true&vCenter=true&width=680&lines=🏏+Ayush+is+at+the+crease...;+Compiling+on+middle+stump...;+%5B+NO+BALL+%5D+undefined+is+not+a+function;+%5B+SIX+%5D+Feature+shipped+to+prod+🚀;+%5B+NOT+OUT+%5D+Still+debugging+at+2am+🌙)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```bash
-┌──(ayush㉿dev)-[~]
-└─$ cat about.json
+```
+╔══════════════════════════════════════════════════════════════╗
+║              🏟  AYUSH-4404 CRICKET CLUB  🏟                ║
+║                   OFFICIAL PLAYER CARD                       ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-```json
-{
-  "name"        : "Ayush",
-  "alias"       : "ayush-4404",
-  "role"        : "Full-Stack Developer",
-  "motto"       : "Code. Create. Scale.",
-  "location"    : "India 🇮🇳",
-  "status"      : "Building things that break in prod at 2am",
-  "learning"    : ["System Design", "LLM Agents", "Cloud Architecture"],
-  "fun_fact"    : "console.log('still debugging...')",
-  "available"   : true,
-  "open_to"     : ["Collabs", "Freelance", "Open Source", "Full-time"]
-}
-```
-
----
-
-```bash
-┌──(ayush㉿dev)-[~]
-└─$ ls -la ./tech-stack/
-```
-
-```
-drwxr-xr-x  frontend/
-  ├── JavaScript        ████████████████████  expert
-  ├── TypeScript        ██████████████████░░  advanced
-  ├── React             ████████████████████  expert
-  ├── Next.js           ██████████████████░░  advanced
-  └── Tailwind CSS      ████████████████████  expert
-
-drwxr-xr-x  backend/
-  ├── Node.js           ██████████████████░░  advanced
-  ├── Python            ████████████████░░░░  proficient
-  ├── Java              ███████████████░░░░░  proficient
-  ├── REST APIs         ████████████████████  expert
-  ├── MySQL             ████████████████░░░░  proficient
-  └── MongoDB           ████████████████░░░░  proficient
-
-drwxr-xr-x  ai-tools/
-  ├── AI/LLM Integration ██████████████████░░  advanced
-  ├── Git               ████████████████████  expert
-  └── GitHub            ████████████████████  expert
+```yaml
+# PLAYER PROFILE
+# ──────────────────────────────────────────────────────────────
+  Player        : Ayush
+  Jersey No.    : #4404
+  Role          : All-Rounder (Full-Stack)
+  Batting Style : Right-hand  →  Frontend First
+  Bowling Style : Backend Seamer  →  REST API specialist
+  Home Ground   : India 🇮🇳
+  Status        : 🟢 Available for selection
+  Motto         : "Code. Create. Scale."
+# ──────────────────────────────────────────────────────────────
 ```
 
 ---
 
-```bash
-┌──(ayush㉿dev)-[~]
-└─$ ./run_stats.sh --user ayush-4404
+```
+┌─────────────────────────────────────────────────────────────┐
+│  📋  BATTING LINEUP  —  TECH STACK XI                       │
+├──────┬───────────────────────┬──────────────┬───────────────┤
+│  No. │  Player (Tech)        │  Role        │  Form         │
+├──────┼───────────────────────┼──────────────┼───────────────┤
+│  1   │  JavaScript           │  Opener      │  ████████████ │
+│  2   │  TypeScript           │  Opener      │  ██████████░░ │
+│  3   │  React                │  #3 Anchor   │  ████████████ │
+│  4   │  Next.js              │  Middle Order│  ██████████░░ │
+│  5   │  Node.js              │  All-Rounder │  ██████████░░ │
+│  6   │  Python               │  All-Rounder │  ████████░░░░ │
+│  7   │  Java                 │  Lower Order │  ███████░░░░░ │
+│  8   │  Tailwind CSS         │  Finisher    │  ████████████ │
+│  9   │  MySQL                │  Keeper      │  ████████░░░░ │
+│  10  │  MongoDB              │  Tail        │  ████████░░░░ │
+│  11  │  AI / LLM Integration │  Impact Sub  │  ██████████░░ │
+│  12  │  REST APIs            │  12th Man    │  ████████████ │
+└──────┴───────────────────────┴──────────────┴───────────────┘
+```
+
+---
+
+```
+╔══════════════════ 📊  CAREER SCORECARD ══════════════════════╗
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-4404&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=a78bfa&icon_color=a78bfa&text_color=7c3aed" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-4404&layout=compact&hide_border=true&bg_color=0d0b14&title_color=a78bfa&text_color=7c3aed" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-4404&show_icons=true&hide_border=true&bg_color=0a1628&title_color=f0c040&icon_color=f0c040&text_color=e2c97e&ring_color=f0c040" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-4404&layout=compact&hide_border=true&bg_color=0a1628&title_color=f0c040&text_color=e2c97e" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayush-4404&hide_border=true&background=0D0B14&stroke=a78bfa&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=4c1d95&currStreakNum=a78bfa&sideNums=7c3aed)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayush-4404&hide_border=true&background=0A1628&stroke=f0c040&ring=f0c040&fire=e05c00&currStreakLabel=f0c040&sideLabels=e2c97e&dates=7a6a3a&currStreakNum=f0c040&sideNums=e2c97e)](https://git.io/streak-stats)
+
+</div>
+
+```
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  📺  HAWK-EYE  —  CONTRIBUTION TRAJECTORY                   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-4404&bg_color=0a1628&color=f0c040&line=f0c040&point=e05c00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-```bash
-┌──(ayush㉿dev)-[~]
-└─$ git log --oneline --graph --all
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🏆  TROPHY CABINET                                         │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-4404&bg_color=0d0b14&color=a78bfa&line=a78bfa&point=7c3aed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayush-4404&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-```bash
-┌──(ayush㉿dev)-[~]
-└─$ cat ./certs/trophies.txt
 ```
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayush-4404&theme=dracula&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-```bash
-┌──(ayush㉿dev)-[~]
-└─$ cat current_processes.txt
-```
-
-```
-PID   PROCESS                              STATUS
-────  ───────────────────────────────────  ──────────
-001   next.js + ai-integration-app         RUNNING ▶
-002   llm-agents-research                  RUNNING ▶
-003   scalable-backend-architecture        RUNNING ▶
-004   open-source-contributions            RUNNING ▶
-005   learning-system-design               RUNNING ▶
+┌─────────────────────────────────────────────────────────────┐
+│  📡  LIVE MATCH CENTRE  —  ACTIVE INNINGS                   │
+├────────┬────────────────────────────────────┬───────────────┤
+│  Over  │  Delivery (Project)                │  Result       │
+├────────┼────────────────────────────────────┼───────────────┤
+│  1.1   │  next.js + ai-integration-app      │  FOUR  ▶  🟢  │
+│  1.2   │  llm-agents-research               │  SIX   ▶  🟢  │
+│  1.3   │  scalable-backend-architecture     │  DOT   ▶  🟡  │
+│  1.4   │  open-source-contributions         │  RUN   ▶  🟢  │
+│  1.5   │  learning-system-design            │  WD    ▶  🔵  │
+└────────┴────────────────────────────────────┴───────────────┘
+  🎙  COMMENTARY: "Ayush is batting on 97*... looking for the century!"
 ```
 
 ---
 
-```bash
-┌──(ayush㉿dev)-[~]
-└─$ ./connect.sh --open-channels
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🎙  POST-MATCH PRESS CONFERENCE  —  REACH ME AT            │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23a78bfa?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ayush-raj-bt219/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23a78bfa?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayush-4404)
-[![Email](https://img.shields.io/badge/Email-%23a78bfa?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ayushmishra7484@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%23f0c040?style=for-the-badge&logo=linkedin&logoColor=0a1628&labelColor=0a1628)](https://www.linkedin.com/in/ayush-raj-bt219/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23f0c040?style=for-the-badge&logo=github&logoColor=0a1628&labelColor=0a1628)](https://github.com/ayush-4404)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20mail-%23f0c040?style=for-the-badge&logo=gmail&logoColor=0a1628&labelColor=0a1628)](mailto:ayushmishra7484@gmail.com)
 
 </div>
 
@@ -144,11 +145,11 @@ PID   PROCESS                              STATUS
 <div align="center">
 
 ```
-> connection established. say hello! 👾
+🏏  "It's not about how hard you hit, it's about how clean you ship."
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayush-4404&color=a78bfa&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=ayush-4404&color=f0c040&style=for-the-badge&label=FANS+IN+THE+STANDS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:2d1b69,100:0d0b14&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a3a5c,100:0a1628&height=120&section=footer" width="100%"/>
 
 </div>
