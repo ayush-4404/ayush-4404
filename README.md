@@ -35,24 +35,7 @@
   Motto         : "Code. Create. Scale."
 # ──────────────────────────────────────────────────────────────
 ```
-
 ---
-
-```
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║                                                               ║
-  ║    ████████╗███████╗ ██████╗██╗  ██╗    ███████╗████████╗   ║
-  ║       ██╔══╝██╔════╝██╔════╝██║  ██║    ██╔════╝╚══██╔══╝   ║
-  ║       ██║   █████╗  ██║     ███████║    ███████╗   ██║       ║
-  ║       ██║   ██╔══╝  ██║     ██╔══██║    ╚════██║   ██║       ║
-  ║       ██║   ███████╗╚██████╗██║  ██║    ███████║   ██║       ║
-  ║       ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚══════╝   ╚═╝       ║
-  ║                                                               ║
-  ║          X  I   —   B A T T I N G   L I N E U P             ║
-  ║                                                               ║
-  ╚═══════════════════════════════════════════════════════════════╝
-```
-
 ```
   ┌──────┬────────────────────────┬──────────────┬───────────────┐
   │  No. │  Player (Tech)         │  Role        │  Form         │
@@ -71,9 +54,7 @@
   │  12  │  REST APIs        🔗  │  12th Man    │  ████████████ │
   └──────┴────────────────────────┴──────────────┴───────────────┘
 ```
-
-> 🏏 **SHOT OF THE DAY** — `JavaScript` drives one through the covers for FOUR!
-
+>  **SHOT OF THE DAY** — `JavaScript` drives one through the covers for FOUR!
 ---
 
 ```
@@ -87,22 +68,14 @@
   ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
   ╚═══════════════════════════════════════════════════════════╝
 ```
-
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=ayush-4404&show_icons=true&hide_border=true&bg_color=0a1628&title_color=f0c040&icon_color=f0c040&text_color=e2c97e&ring_color=f0c040" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-4404&layout=compact&hide_border=true&bg_color=0a1628&title_color=f0c040&text_color=e2c97e" height="165"/>
-
 </div>
-
 <div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayush-4404&hide_border=true&background=0A1628&stroke=f0c040&ring=f0c040&fire=e05c00&currStreakLabel=f0c040&sideLabels=e2c97e&dates=7a6a3a&currStreakNum=f0c040&sideNums=e2c97e)](https://git.io/streak-stats)
-
 </div>
-
 ---
-
 ```
   ╭─────────────────────────────────────────────────────────╮
   │                                                         │
@@ -111,30 +84,20 @@
   │                                                         │
   ╰─────────────────────────────────────────────────────────╯
 ```
-
 <div align="center">
-
 [![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-4404&bg_color=0a1628&color=f0c040&line=f0c040&point=e05c00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
-
 ---
-
 ```
   ╔═══════════════════════════════════════════════════════════╗
   ║   🏆  ──────────  T R O P H Y   C A B I N E T  ──────  🏆║
   ║        World Cup · IPL · Test · ODI · T20 Honours         ║
   ╚═══════════════════════════════════════════════════════════╝
 ```
-
 <div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayush-4404&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
-
 ---
-
 ```
   ╭─────────────────────────────────────────────────────────╮
   │  📡  L I V E  ·  M A T C H  ·  C E N T R E  📡        │
@@ -142,7 +105,6 @@
   │  🔴  LIVE  |  AYUSH-4404  vs  PROD BUGS  |  Day 1      │
   ╰─────────────────────────────────────────────────────────╯
 ```
-
 ```
   ┌────────┬──────────────────────────────────────┬──────────────┐
   │  Over  │  Delivery (Project)                  │  Result      │
@@ -154,17 +116,11 @@
   │  1.5   │  learning-system-design        📐    │  WD   🔵    │
   └────────┴──────────────────────────────────────┴──────────────┘
 ```
-
 <div align="center">
-
 > 🎙️ *"Ayush is batting on 97\*... eyes on the century, one commit at a time!"*
-
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" title="github contribution"/>
-
 </div>
-
 ---
-
 ```
   ╔═══════════════════════════════════════════════════════════╗
   ║                                                           ║
@@ -173,7 +129,6 @@
   ║                                                           ║
   ╚═══════════════════════════════════════════════════════════╝
 ```
-
 | 📌 Milestone | 🎯 Target | 📊 Status |
 |---|---|---|
 | First commit century | 100 commits | 🟡 In progress |
@@ -181,9 +136,7 @@
 | Clean bowled bugs | 50 PRs merged | 🟡 In progress |
 | Hat-trick repos | 3 starred projects | 🟡 Building... |
 | World Cup ready | Open source contrib | 🔵 Coming soon |
-
 ---
-
 ```
   ╭─────────────────────────────────────────────────────────╮
   │                                                         │
@@ -192,27 +145,17 @@
   │                                                         │
   ╰─────────────────────────────────────────────────────────╯
 ```
-
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%23f0c040?style=for-the-badge&logo=linkedin&logoColor=0a1628&labelColor=0a1628)](https://www.linkedin.com/in/ayush-raj-bt219/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23f0c040?style=for-the-badge&logo=github&logoColor=0a1628&labelColor=0a1628)](https://github.com/ayush-4404)
 [![Email](https://img.shields.io/badge/Email-Drop%20a%20mail-%23f0c040?style=for-the-badge&logo=gmail&logoColor=0a1628&labelColor=0a1628)](mailto:ayushmishra7484@gmail.com)
-
 </div>
-
 ---
-
 <div align="center">
-
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" title="coding at night"/>
-
 ```
 🏏  "It's not about how hard you hit, it's about how clean you ship."
 ```
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ayush-4404&color=f0c040&style=for-the-badge&label=FANS+IN+THE+STANDS)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a3a5c,100:0a1628&height=120&section=footer" width="100%"/>
-
 </div>
