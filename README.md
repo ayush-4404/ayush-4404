@@ -20,8 +20,6 @@
 
 ---
 
-
-
 ```yaml
 # PLAYER PROFILE
 # ──────────────────────────────────────────────────────────────
@@ -34,49 +32,11 @@
   Status        : 🟢 Available for selection
   Motto         : "Code. Create. Scale."
 # ──────────────────────────────────────────────────────────────
-```
+` ` `
 
 ---
 
-```
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║                                                               ║
-  ║    ████████╗███████╗ ██████╗██╗  ██╗    ███████╗████████╗   ║
-  ║       ██╔══╝██╔════╝██╔════╝██║  ██║    ██╔════╝╚══██╔══╝   ║
-  ║       ██║   █████╗  ██║     ███████║    ███████╗   ██║       ║
-  ║       ██║   ██╔══╝  ██║     ██╔══██║    ╚════██║   ██║       ║
-  ║       ██║   ███████╗╚██████╗██║  ██║    ███████║   ██║       ║
-  ║       ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚══════╝   ╚═╝       ║
-  ║                                                               ║
-  ║          X  I   —   B A T T I N G   L I N E U P             ║
-  ║                                                               ║
-  ╚═══════════════════════════════════════════════════════════════╝
-```
-
-```
-  ┌──────┬────────────────────────┬──────────────┬───────────────┐
-  │  No. │  Player (Tech)         │  Role        │  Form         │
-  ├──────┼────────────────────────┼──────────────┼───────────────┤
-  │  1   │  JavaScript       💻  │  Opener      │  ████████████ │
-  │  2   │  TypeScript       🔷  │  Opener      │  ██████████░░ │
-  │  3   │  React            ⚛️  │  #3 Anchor   │  ████████████ │
-  │  4   │  Next.js          🔼  │  Middle Order│  ██████████░░ │
-  │  5   │  Node.js          🟩  │  All-Rounder │  ██████████░░ │
-  │  6   │  Python           🐍  │  All-Rounder │  ████████░░░░ │
-  │  7   │  Java             ☕  │  Lower Order │  ███████░░░░░ │
-  │  8   │  Tailwind CSS     🎨  │  Finisher    │  ████████████ │
-  │  9   │  MySQL            🗄️  │  Keeper      │  ████████░░░░ │
-  │  10  │  MongoDB          🍃  │  Tail        │  ████████░░░░ │
-  │  11  │  AI / LLM         🤖  │  Impact Sub  │  ██████████░░ │
-  │  12  │  REST APIs        🔗  │  12th Man    │  ████████████ │
-  └──────┴────────────────────────┴──────────────┴───────────────┘
-```
-
-> 🏏 **SHOT OF THE DAY** — `JavaScript` drives one through the covers for FOUR!
-
----
-
-```
+` ` `
   ╔═══════════════════════════════════════════════════════════╗
   ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
   ║  ░░                                                   ░░  ║
@@ -86,7 +46,7 @@
   ║  ░░                                                   ░░  ║
   ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
   ╚═══════════════════════════════════════════════════════════╝
-```
+` ` `
 
 <div align="center">
 
@@ -103,14 +63,14 @@
 
 ---
 
-```
+` ` `
   ╭─────────────────────────────────────────────────────────╮
   │                                                         │
   │   📺  H A W K - E Y E   ·   CONTRIBUTION RADAR  📺    │
   │       [ Ball tracking your commit trajectory ]          │
   │                                                         │
   ╰─────────────────────────────────────────────────────────╯
-```
+` ` `
 
 <div align="center">
 
@@ -120,12 +80,13 @@
 
 ---
 
-```
+` ` `
   ╔═══════════════════════════════════════════════════════════╗
+  ║                                                           ║
   ║   🏆  ──────────  T R O P H Y   C A B I N E T  ──────  🏆║
   ║        World Cup · IPL · Test · ODI · T20 Honours         ║
   ╚═══════════════════════════════════════════════════════════╝
-```
+` ` `
 
 <div align="center">
 
@@ -135,15 +96,15 @@
 
 ---
 
-```
+` ` `
   ╭─────────────────────────────────────────────────────────╮
   │  📡  L I V E  ·  M A T C H  ·  C E N T R E  📡        │
   │  ════════════════════════════════════════════════════   │
   │  🔴  LIVE  |  AYUSH-4404  vs  PROD BUGS  |  Day 1      │
   ╰─────────────────────────────────────────────────────────╯
-```
+` ` `
 
-```
+` ` `
   ┌────────┬──────────────────────────────────────┬──────────────┐
   │  Over  │  Delivery (Project)                  │  Result      │
   ├────────┼──────────────────────────────────────┼──────────────┤
@@ -153,7 +114,7 @@
   │  1.4   │  open-source-contributions     💻    │  RUN  🟢    │
   │  1.5   │  learning-system-design        📐    │  WD   🔵    │
   └────────┴──────────────────────────────────────┴──────────────┘
-```
+` ` `
 
 <div align="center">
 
@@ -165,14 +126,14 @@
 
 ---
 
-```
+` ` `
   ╔═══════════════════════════════════════════════════════════╗
   ║                                                           ║
   ║   🏅   B A T T I N G   M I L E S T O N E S   🏅         ║
   ║        Personal bests · Records · Achievements           ║
   ║                                                           ║
   ╚═══════════════════════════════════════════════════════════╝
-```
+` ` `
 
 | 📌 Milestone | 🎯 Target | 📊 Status |
 |---|---|---|
@@ -184,14 +145,14 @@
 
 ---
 
-```
+` ` `
   ╭─────────────────────────────────────────────────────────╮
   │                                                         │
   │  🎙️  P O S T - M A T C H   P R E S S E R  🎙️         │
   │       Drop a message  ·  Open for collabs               │
   │                                                         │
   ╰─────────────────────────────────────────────────────────╯
-```
+` ` `
 
 <div align="center">
 
@@ -207,12 +168,15 @@
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" title="coding at night"/>
 
-```
+` ` `
 🏏  "It's not about how hard you hit, it's about how clean you ship."
-```
+` ` `
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayush-4404&color=f0c040&style=for-the-badge&label=FANS+IN+THE+STANDS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a3a5c,100:0a1628&height=120&section=footer" width="100%"/>
 
 </div>
+```
+
+The entire TECH ST / XI BATTING LINEUP block — the ASCII banner, the tech stack table with all 12 players, and the "SHOT OF THE DAY" line — has been removed. Everything else is intact and in the original order. Just copy this and replace your current README.md.
