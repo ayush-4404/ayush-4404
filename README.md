@@ -1,19 +1,26 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:0d2137&height=200&section=header&text=%20Ayush%20%7C%20All-Rounder&fontSize=40&fontColor=f0c040&fontAlignY=38&desc=Code.%20Create.%20Scale.&descSize=20&descAlignY=60&descColor=e2c97e&animation=fadeIn" width="100%"/>
+
 </div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=F0C040&center=true&vCenter=true&width=680&lines=🏏+Ayush+is+at+the+crease...;+Compiling+on+middle+stump...;+%5B+NO+BALL+%5D+undefined+is+not+a+function;+%5B+SIX+%5D+Feature+shipped+to+prod+🚀;+%5B+NOT+OUT+%5D+Still+debugging+at+2am+🌙)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" title="coding cat"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" title="coding"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" title="coding cat"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" title="coding cat"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" title="coding"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" title="coding cat"/>
 </div>
 
 ---
+
+
 
 ```yaml
 # PLAYER PROFILE
@@ -27,32 +34,83 @@
   Status        : 🟢 Available for selection
   Motto         : "Code. Create. Scale."
 # ──────────────────────────────────────────────────────────────
-` ` `
+```
 
 ---
 
-` ` `
+```
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║                                                               ║
+  ║    ████████╗███████╗ ██████╗██╗  ██╗    ███████╗████████╗   ║
+  ║       ██╔══╝██╔════╝██╔════╝██║  ██║    ██╔════╝╚══██╔══╝   ║
+  ║       ██║   █████╗  ██║     ███████║    ███████╗   ██║       ║
+  ║       ██║   ██╔══╝  ██║     ██╔══██║    ╚════██║   ██║       ║
+  ║       ██║   ███████╗╚██████╗██║  ██║    ███████║   ██║       ║
+  ║       ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚══════╝   ╚═╝       ║
+  ║                                                               ║
+  ║          X  I   —   B A T T I N G   L I N E U P             ║
+  ║                                                               ║
+  ╚═══════════════════════════════════════════════════════════════╝
+```
+
+```
+  ┌──────┬────────────────────────┬──────────────┬───────────────┐
+  │  No. │  Player (Tech)         │  Role        │  Form         │
+  ├──────┼────────────────────────┼──────────────┼───────────────┤
+  │  1   │  JavaScript       💻  │  Opener      │  ████████████ │
+  │  2   │  TypeScript       🔷  │  Opener      │  ██████████░░ │
+  │  3   │  React            ⚛️  │  #3 Anchor   │  ████████████ │
+  │  4   │  Next.js          🔼  │  Middle Order│  ██████████░░ │
+  │  5   │  Node.js          🟩  │  All-Rounder │  ██████████░░ │
+  │  6   │  Python           🐍  │  All-Rounder │  ████████░░░░ │
+  │  7   │  Java             ☕  │  Lower Order │  ███████░░░░░ │
+  │  8   │  Tailwind CSS     🎨  │  Finisher    │  ████████████ │
+  │  9   │  MySQL            🗄️  │  Keeper      │  ████████░░░░ │
+  │  10  │  MongoDB          🍃  │  Tail        │  ████████░░░░ │
+  │  11  │  AI / LLM         🤖  │  Impact Sub  │  ██████████░░ │
+  │  12  │  REST APIs        🔗  │  12th Man    │  ████████████ │
+  └──────┴────────────────────────┴──────────────┴───────────────┘
+```
+
+> 🏏 **SHOT OF THE DAY** — `JavaScript` drives one through the covers for FOUR!
+
+---
+
+```
   ╔═══════════════════════════════════════════════════════════╗
+  ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+  ║  ░░                                                   ░░  ║
   ║  ░░   📊   C A R E E R   S C O R E C A R D   📊     ░░  ║
+  ║  ░░                                                   ░░  ║
   ║  ░░   Matches · Runs · Strike Rate · Avg · Economy   ░░  ║
+  ║  ░░                                                   ░░  ║
+  ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
   ╚═══════════════════════════════════════════════════════════╝
-` ` `
+```
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=ayush-4404&show_icons=true&hide_border=true&bg_color=0a1628&title_color=f0c040&icon_color=f0c040&text_color=e2c97e&ring_color=f0c040" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-4404&layout=compact&hide_border=true&bg_color=0a1628&title_color=f0c040&text_color=e2c97e" height="165"/>
 
+</div>
+
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayush-4404&hide_border=true&background=0A1628&stroke=f0c040&ring=f0c040&fire=e05c00&currStreakLabel=f0c040&sideLabels=e2c97e&dates=7a6a3a&currStreakNum=f0c040&sideNums=e2c97e)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-` ` `
+```
   ╭─────────────────────────────────────────────────────────╮
+  │                                                         │
   │   📺  H A W K - E Y E   ·   CONTRIBUTION RADAR  📺    │
   │       [ Ball tracking your commit trajectory ]          │
+  │                                                         │
   ╰─────────────────────────────────────────────────────────╯
-` ` `
+```
 
 <div align="center">
 
@@ -62,12 +120,12 @@
 
 ---
 
-` ` `
+```
   ╔═══════════════════════════════════════════════════════════╗
   ║   🏆  ──────────  T R O P H Y   C A B I N E T  ──────  🏆║
   ║        World Cup · IPL · Test · ODI · T20 Honours         ║
   ╚═══════════════════════════════════════════════════════════╝
-` ` `
+```
 
 <div align="center">
 
@@ -77,12 +135,15 @@
 
 ---
 
-` ` `
+```
   ╭─────────────────────────────────────────────────────────╮
   │  📡  L I V E  ·  M A T C H  ·  C E N T R E  📡        │
+  │  ════════════════════════════════════════════════════   │
   │  🔴  LIVE  |  AYUSH-4404  vs  PROD BUGS  |  Day 1      │
   ╰─────────────────────────────────────────────────────────╯
+```
 
+```
   ┌────────┬──────────────────────────────────────┬──────────────┐
   │  Over  │  Delivery (Project)                  │  Result      │
   ├────────┼──────────────────────────────────────┼──────────────┤
@@ -92,23 +153,26 @@
   │  1.4   │  open-source-contributions     💻    │  RUN  🟢    │
   │  1.5   │  learning-system-design        📐    │  WD   🔵    │
   └────────┴──────────────────────────────────────┴──────────────┘
-` ` `
+```
 
 <div align="center">
 
 > 🎙️ *"Ayush is batting on 97\*... eyes on the century, one commit at a time!"*
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" title="github contribution"/>
+
 </div>
 
 ---
 
-` ` `
+```
   ╔═══════════════════════════════════════════════════════════╗
+  ║                                                           ║
   ║   🏅   B A T T I N G   M I L E S T O N E S   🏅         ║
   ║        Personal bests · Records · Achievements           ║
+  ║                                                           ║
   ╚═══════════════════════════════════════════════════════════╝
-` ` `
+```
 
 | 📌 Milestone | 🎯 Target | 📊 Status |
 |---|---|---|
@@ -120,12 +184,14 @@
 
 ---
 
-` ` `
+```
   ╭─────────────────────────────────────────────────────────╮
+  │                                                         │
   │  🎙️  P O S T - M A T C H   P R E S S E R  🎙️         │
   │       Drop a message  ·  Open for collabs               │
+  │                                                         │
   ╰─────────────────────────────────────────────────────────╯
-` ` `
+```
 
 <div align="center">
 
@@ -133,16 +199,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23f0c040?style=for-the-badge&logo=github&logoColor=0a1628&labelColor=0a1628)](https://github.com/ayush-4404)
 [![Email](https://img.shields.io/badge/Email-Drop%20a%20mail-%23f0c040?style=for-the-badge&logo=gmail&logoColor=0a1628&labelColor=0a1628)](mailto:ayushmishra7484@gmail.com)
 
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" title="coding at night"/>
 
-` ` `
+```
 🏏  "It's not about how hard you hit, it's about how clean you ship."
-` ` `
+```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayush-4404&color=f0c040&style=for-the-badge&label=FANS+IN+THE+STANDS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a3a5c,100:0a1628&height=120&section=footer" width="100%"/>
-</div>
-```
 
-Key changes made — removed all blank lines inside `<div align="center">` blocks where not needed, merged the Live Match Centre box and table into a single code block, trimmed the decorative ASCII banners by removing empty inner padding lines, and collapsed the footer section's spacing. The content and structure are all intact.
+</div>
